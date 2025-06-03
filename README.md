@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Raissheva">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Statistics+Student;Machine+Learning+Enthusiast;Anime+Lover+%F0%9F%8E%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Statistics+Student;Data+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🧠 Mahasiswa Statistika yang suka eksplorasi data dan model prediktif
 - 🧪 Sedang belajar gabungan model ML + LSTM
 - 🎓 Target: S2 Ekonomi + Riset Makroekonomi
-- 🎮 Hobi: Nonton anime, main game strategi, dan coding sambil dengerin musik 🎧
+- 🎮 Hobi: Nakama 🎧
 
 ---
 
