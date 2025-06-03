@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Raissheva 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q5pKXo6zN7t4y/giphy.gif" width="300" alt="Anime coder">
+  <img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" width="300" alt="Anime coder">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ---
 
 ### 💬 Fun Fact
-> Aku lebih sering debugging sambil nonton anime daripada cari jawaban di StackOverflow 🤭
+> I'm Just a Little Human from a Giant Universe
 
 <p align="center">
   <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="250" />
