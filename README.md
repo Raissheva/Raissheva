@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Raissheva 👋</h1>
 
-<!--
-**Raissheva/Raissheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Tentang Saya
+- 📚 Mahasiswa Statistika dengan minat besar di bidang Data Science dan Ekonomi
+- 🧠 Saat ini sedang belajar gabungan model ML + Deep Learning
+- 🎯 Target: Studi lanjut dan riset makroekonomi
+
+---
+
+### 📊 GitHub Stats
+
+![Raissheva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissheva&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧰 Tools & Tech Stack
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter)
+
+---
+
+### 🔗 Kontak
+📫 Email: raissheva@example.com  
+📷 Instagram: [@raissheva](https://instagram.com/raissheva)
+
